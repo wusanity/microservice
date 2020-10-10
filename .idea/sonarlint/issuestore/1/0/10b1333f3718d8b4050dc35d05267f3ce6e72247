@@ -1,0 +1,11 @@
+
+kpython:S2208"GImport only needed names or import the module and then use its members.(£ÛÌ§üÿÿÿÿ8±½ ‰Ñ.
+|python:S101"]Rename class "sendMobileMessage_result" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(™ÏùÂ8±½ ‰Ñ.
+ypython:S101½"ZRename class "sendEmailMessage_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÌÙ”ƒ8±½ ‰Ñ.
+lpython:S1192ò"GDefine a constant instead of duplicating this literal '%s(%s)' 4 times.(ÈÛŒâûÿÿÿÿ8±½ ‰Ñ.
+zpython:S101¸"[Rename class "sendMobileMessage_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(†ÊƒĞ8±½ ‰Ñ.
+ypython:S3776É"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(çò¶€ÿÿÿÿÿ8±½ ‰Ñ.
+ypython:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(çò¶€ÿÿÿÿÿ8±½ ‰Ñ.
+upython:S100"XRename method "sendMobileMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À’še8±½ ‰Ñ.
+€python:S101†"\Rename class "sendEmailMessage_result" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(§±˜«ùÿÿÿÿ8±½ ‰Ñ.
+upython:S100"WRename method "sendEmailMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôñ ÷8±½ ‰Ñ.

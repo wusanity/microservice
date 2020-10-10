@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+c
+3message-thrift-python-service/thrift/message.thrift,7\0\7096db2633325358f65a6577aa1bf9baf7b39379
+`
+0message-thrift-python-service/thrift/gen-code.sh,9\e\9e722697d14cdade20294406a6e5d76f41f9ab88
+k
+;message-thrift-python-service/message/api/MessageService.py,1\0\10b1333f3718d8b4050dc35d05267f3ce6e72247
+h
+8message-thrift-python-service/message/message_service.py,5\3\53c008d9dc094538e7d64cf6a226d3a1fb902907
+R
+"message-thrift-service-api/pom.xml,2\7\27e969f8c48acafe5bf3f0e5ea613823397bc91e
+ƒ
+Smessage-thrift-service-api/src/main/java/com/wzp/thrift/message/MessageService.java,4\1\410a468ad912fa4557799df5a5d21f92a8c12bd7
+Z
+*user-thrift-service-api/thrift/gen-code.sh,1\7\17ef07b207f373d458a09b1ad245880e723c9fd3
+b
+2user-thrift-service-api/thrift/user_service.thrift,0\6\06fa3c3118f604f7771193a3e080aca86a37b7ce
+O
+user-thrift-service-api/pom.xml,a\4\a4a4fbcfaeec3526b029e11145236f96bba43ea4
