@@ -51,8 +51,6 @@ w
 Guser-thrift-service/src/main/java/com/wzp/user/thrift/ThriftServer.java,a\8\a8a123d5dc718859950cd30ddf35b35f155efe37
 v
 Fuser-thrift-service/src/main/java/com/wzp/user/ServiceApplication.java,5\7\574bc8a4ea3ee51f9c5337f9578eb338469e5e66
-m
-=user-thrift-service/src/main/resources/application.properties,8\d\8d26e70484a7c640b4b2673017b1f41ec55696d2
 i
 9user-thrift-service/target/classes/application.properties,6\e\6e3ee89e21312768291ea6519315716b653ae10c
 K
