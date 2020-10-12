@@ -1,11 +1,11 @@
 
-kpython:S2208"GImport only needed names or import the module and then use its members.(£ΫΜ§όÿÿÿÿ8±½ ‰Ρ.
 |python:S101"]Rename class "sendMobileMessage_result" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(™ΟωΒ8±½ ‰Ρ.
-ypython:S101½"ZRename class "sendEmailMessage_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ΜΩ”ƒ8±½ ‰Ρ.
-lpython:S1192ς"GDefine a constant instead of duplicating this literal '%s(%s)' 4 times.(ΘΫβϋÿÿÿÿ8±½ ‰Ρ.
-zpython:S101Έ"[Rename class "sendMobileMessage_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(†ΚƒΠ8±½ ‰Ρ.
-ypython:S3776Ι"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ης¶€ÿÿÿÿÿ8±½ ‰Ρ.
-ypython:S3776Δ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ης¶€ÿÿÿÿÿ8±½ ‰Ρ.
-upython:S100"XRename method "sendMobileMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ΐ’e8±½ ‰Ρ.
 €python:S101†"\Rename class "sendEmailMessage_result" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(§±«ωÿÿÿÿ8±½ ‰Ρ.
+ypython:S3776Δ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ης¶€ÿÿÿÿÿ8±½ ‰Ρ.
+lpython:S1192ς"GDefine a constant instead of duplicating this literal '%s(%s)' 4 times.(ΘΫβϋÿÿÿÿ8±½ ‰Ρ.
+ypython:S101½"ZRename class "sendEmailMessage_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ΜΩ”ƒ8±½ ‰Ρ.
+zpython:S101Έ"[Rename class "sendMobileMessage_args" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(†ΚƒΠ8±½ ‰Ρ.
+kpython:S2208"GImport only needed names or import the module and then use its members.(£ΫΜ§όÿÿÿÿ8±½ ‰Ρ.
+upython:S100"XRename method "sendMobileMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ΐ’e8±½ ‰Ρ.
 upython:S100"WRename method "sendEmailMessage" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(τρ χ8±½ ‰Ρ.
+ypython:S3776Ι"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ης¶€ÿÿÿÿÿ8±½ ‰Ρ.
