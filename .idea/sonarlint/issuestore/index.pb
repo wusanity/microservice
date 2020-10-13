@@ -101,3 +101,13 @@ y
 Icourse-dubbo-service/src/main/java/com/wzp/course/ServiceApplication.java,2\f\2f5664517306568a95a66f8b3840b7264f64f89c
 L
 course-dubbo-service/pom.xml,7\6\76f0a8b7abdf44aa37676834ade85b9cc84d148a
+j
+:course-dubbo-service/target/classes/application.properties,8\6\864c17b66abfb4915761da90462f2712f6cb49e6
+y
+Icourse-edge-service/src/main/java/com/wzp/course/filter/CourseFilter.java,a\a\aad0184e3da21a340b0b199cc5c0971f639e3415
+x
+Hcourse-edge-service/src/main/java/com/wzp/course/ServiceApplication.java,e\1\e128ecf481f546a2cd68fca304c2ed6a5b7cc673
+Å
+Qcourse-edge-service/src/main/java/com/wzp/course/controller/CourseController.java,4\a\4a1f842e8928b8c7d3e2d022a6e179a08b5b787d
+K
+course-edge-service/pom.xml,5\9\59caade1d6f38fe6cf758e76d7731abf887ed575

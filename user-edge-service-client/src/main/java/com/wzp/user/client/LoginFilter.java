@@ -64,9 +64,10 @@ public abstract class LoginFilter implements Filter {
         }
         if(userDTO==null){
             response.sendRedirect("http://127.0.0.1:8082/user/login");
+            return;
         }
 
-        //TODO
+        //方法执行到此处说明用户已登录，此处可以使用用户执行个性化的登录操作，例如：存储相应属性
         login(request,response,userDTO);
 
         filterChain.doFilter(request,response);

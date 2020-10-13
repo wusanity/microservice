@@ -1,5 +1,6 @@
 package com.wzp.course.service;
 
+import com.alibaba.dubbo.config.annotation.Service;
 import com.wzp.course.dto.CourseDTO;
 import com.wzp.course.mapper.CourseMapper;
 import com.wzp.thrift.user.UserInfo;
@@ -7,7 +8,6 @@ import com.wzp.thrift.user.dto.TeacherDTO;
 import org.apache.thrift.TException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
