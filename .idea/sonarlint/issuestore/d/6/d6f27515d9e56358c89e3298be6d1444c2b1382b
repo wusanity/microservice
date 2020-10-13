@@ -1,15 +1,17 @@
 
-l
-java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ8¦ß€¸Ñ.
+g
+java:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(õâ‰é8ş˜ÈÛÑ.
 e
-java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾şÿÿÿÿ8²£ø¸Ñ.
-U
-java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(á§â38ıú¸Ñ.
-[
-java:S18541"9Remove this useless assignment to local variable "token".(ıÕÒ·ûÿÿÿÿ8°š¶ÁÑ.
-L
-java:S14811"*Remove this unused "token" local variable.(ıÕÒ·ûÿÿÿÿ8°š¶ÁÑ.
+java:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†8×š÷ÜÑ.
 G
-java:S1135"2Complete the task associated to this TODO comment.(£°§\
-:
-java:S2119="Save and re-use this "Random".(¼İÅf8¯µ»ÁÑ.
+java:S1135"2Complete the task associated to this TODO comment.(£°§\
+l
+java:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ8¦ß€¸Ñ.
+;
+java:S2119˜"Save and re-use this "Random".(¼İÅf8¯µ»ÁÑ.
+V
+java:S4719£"9Replace charset name argument with StandardCharsets.UTF_8(á§â38ıú¸Ñ.
+g
+java:S4488`"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•8å²ëÚÑ.
+h
+java:S4488…"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÑÒª8ŸàÜÜÑ.

@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="user-thrift-service-api" />
-        <module name="user-thrift-service" />
-        <module name="user-edge-service-client" />
         <module name="user-edge-service" />
+        <module name="user-edge-service-client" />
+        <module name="user-thrift-service" />
         <module name="message-thrift-service-api" />
+        <module name="user-thrift-service-api" />
+        <module name="course-dubbo-service" />
+        <module name="course-dubbo-service-api" />
       </profile>
     </annotationProcessing>
   </component>
