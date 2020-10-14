@@ -51,8 +51,6 @@ w
 Guser-thrift-service/src/main/java/com/wzp/user/thrift/ThriftServer.java,a\8\a8a123d5dc718859950cd30ddf35b35f155efe37
 v
 Fuser-thrift-service/src/main/java/com/wzp/user/ServiceApplication.java,5\7\574bc8a4ea3ee51f9c5337f9578eb338469e5e66
-i
-9user-thrift-service/target/classes/application.properties,6\e\6e3ee89e21312768291ea6519315716b653ae10c
 K
 user-thrift-service/pom.xml,a\e\ae1a8ac92134a8739927b7eba26b0658df5da0c9
 w
@@ -111,3 +109,13 @@ Hcourse-edge-service/src/main/java/com/wzp/course/ServiceApplication.java,e\1\e
 Qcourse-edge-service/src/main/java/com/wzp/course/controller/CourseController.java,4\a\4a1f842e8928b8c7d3e2d022a6e179a08b5b787d
 K
 course-edge-service/pom.xml,5\9\59caade1d6f38fe6cf758e76d7731abf887ed575
+n
+>course-dubbo-service/src/main/resources/application.properties,8\b\8b02314151b0f42a2e1411f2448504fcac09eac0
+m
+=course-edge-service/src/main/resources/application.properties,7\0\707b411515f9a955d9ea0c74d110b221d683daaa
+i
+9course-edge-service/target/classes/application.properties,9\9\99f3977b2e2a4eadf77e7b52b09c8f87aecdd885
+H
+api-gateway-zuul/pom.xml,3\c\3cf1c79c45842f4ef7a010ada21f74b9e5fb9ab3
+s
+Capi-gateway-zuul/src/main/java/com/wzp/zuul/ServiceApplication.java,8\a\8a6d3c966a5fb71db798db027ff316579da606e0

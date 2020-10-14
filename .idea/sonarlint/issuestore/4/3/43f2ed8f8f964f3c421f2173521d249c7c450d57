@@ -1,14 +1,14 @@
 
-q
-java:S2095O"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8¶ïÍİÑ.
-o
-java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ø‰ºš8»×çàÑ.
-|
-java:S1488_"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(‹ìö˜8…›‚ŞÑ.
-g	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(úÈ¹—ÿÿÿÿÿ8ÔóÕİÑ.
-G
-java:S1135"2Complete the task associated to this TODO comment.(£°§\
-[
-java:S1874O"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8¶ïÍİÑ.
 c
 java:S1192,"FDefine a constant instead of duplicating this literal "token" 3 times.(Úè”œ8¶ïÍİÑ.
+[
+java:S1874P"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8¶ïÍİÑ.
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(úÈ¹—ÿÿÿÿÿ8ÔóÕİÑ.
+o
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ø‰ºš8»×çàÑ.
+G
+java:S1135"2Complete the task associated to this TODO comment.(£°§\
+q
+java:S2095P"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8¶ïÍİÑ.
+|
+java:S1488`"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(‹ìö˜8…›‚ŞÑ.
