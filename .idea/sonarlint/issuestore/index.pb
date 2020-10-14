@@ -109,10 +109,6 @@ Hcourse-edge-service/src/main/java/com/wzp/course/ServiceApplication.java,e\1\e
 Qcourse-edge-service/src/main/java/com/wzp/course/controller/CourseController.java,4\a\4a1f842e8928b8c7d3e2d022a6e179a08b5b787d
 K
 course-edge-service/pom.xml,5\9\59caade1d6f38fe6cf758e76d7731abf887ed575
-n
->course-dubbo-service/src/main/resources/application.properties,8\b\8b02314151b0f42a2e1411f2448504fcac09eac0
-m
-=course-edge-service/src/main/resources/application.properties,7\0\707b411515f9a955d9ea0c74d110b221d683daaa
 i
 9course-edge-service/target/classes/application.properties,9\9\99f3977b2e2a4eadf77e7b52b09c8f87aecdd885
 H
