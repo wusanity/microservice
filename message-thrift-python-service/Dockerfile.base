@@ -1,0 +1,4 @@
+FROM python:3.7.3
+MAINTAINER wzp wuzph@digitalchina.com
+
+RUN pip install thrift
