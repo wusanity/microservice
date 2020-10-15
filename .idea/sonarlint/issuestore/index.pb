@@ -159,8 +159,6 @@ f
 6api-gateway-zuul/target/classes/application.properties,0\f\0f142fddff2543fbb5eaed1e0b9b4e8bf94f96b8
 K
 api-gateway-zuul/Dockerfile,c\b\cbb62ba03a1c964aa33060cfc31088fa630fa48b
-n
->course-dubbo-service/src/main/resources/application.properties,8\b\8b02314151b0f42a2e1411f2448504fcac09eac0
 M
 course-dubbo-service/build.sh,d\1\d1b9136666e9d548bafcddf95ca3a62bbb2c1467
 O
