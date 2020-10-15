@@ -63,7 +63,7 @@ public abstract class LoginFilter implements Filter {
             }
         }
         if(userDTO==null){
-            response.sendRedirect("http://local:8083/user/login");
+            response.sendRedirect("http://www.wzp.com/user/login");
             return;
         }
 
@@ -76,7 +76,7 @@ public abstract class LoginFilter implements Filter {
     protected abstract void login(HttpServletRequest request, HttpServletResponse response, UserDTO userDTO) ;
 
     private UserDTO requestUserInfo(String token) {
-        String url = "http://127.0.0.1:8082/user/authentication";
+        String url = "http://user-edge-service:8082/user/authentication";
         HttpClient client = new DefaultHttpClient();
         HttpPost post = new HttpPost(url);
         post.addHeader("token",token);
