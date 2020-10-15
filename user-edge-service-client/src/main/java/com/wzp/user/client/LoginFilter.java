@@ -63,7 +63,7 @@ public abstract class LoginFilter implements Filter {
             }
         }
         if(userDTO==null){
-            response.sendRedirect("http://www.wzp.com/user/login");
+            response.sendRedirect("http://www.zyy.com:8083/user/login");
             return;
         }
 
