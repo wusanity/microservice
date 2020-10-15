@@ -31,5 +31,11 @@ services:
       - user-edge-service
     command:
       - "--zookeeper.address=192.168.147.139"
+
+  api-gateway-zuul:
+    image: api-gateway-zuul:latest
+    links:
+      - course-edge-service
+      - user-edge-service
     ports:
       - 8083:8083
