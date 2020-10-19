@@ -169,3 +169,5 @@ N
 course-edge-service/Dockerfile,d\f\df2028b96db447e322397097add2026c9c09e825
 I
 api-gateway-zuul/build.sh,8\2\827f305d4c4c6f8c33032d53542031b7df069e1e
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a

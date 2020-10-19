@@ -2,4 +2,6 @@
 
 mvn package
 
-docker build -t user-service:latest .
+docker build -t 192.168.147.139:8081/micro-service/user-service:latest .
+
+docker push 192.168.147.139:8081/micro-service/user-service:latest

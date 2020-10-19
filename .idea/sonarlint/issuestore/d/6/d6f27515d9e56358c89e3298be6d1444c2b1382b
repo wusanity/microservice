@@ -1,17 +1,17 @@
 
 g
-java:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(õâ‰é8ş˜ÈÛÑ.
+java:S4488`"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•8å²ëÚÑ.
+;
+java:S2119˜"Save and re-use this "Random".(¼İÅf8¯µ»ÁÑ.
 e
 java:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†8×š÷ÜÑ.
+g
+java:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(õâ‰é8ş˜ÈÛÑ.
+V
+java:S4719£"9Replace charset name argument with StandardCharsets.UTF_8(á§â38ıú¸Ñ.
 G
 java:S1135"2Complete the task associated to this TODO comment.(£°§\
 l
 java:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ8¦ß€¸Ñ.
-;
-java:S2119˜"Save and re-use this "Random".(¼İÅf8¯µ»ÁÑ.
-V
-java:S4719£"9Replace charset name argument with StandardCharsets.UTF_8(á§â38ıú¸Ñ.
-g
-java:S4488`"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•8å²ëÚÑ.
 h
 java:S4488…"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÑÒª8ŸàÜÜÑ.

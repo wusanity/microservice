@@ -1,4 +1,4 @@
-FROM python-base:latest
+FROM 192.168.147.139:8081/micro-service/python-base:latest
 MAINTAINER wzp wuzph@digitalchina.com
 
 ENV PYTHONPATH /
