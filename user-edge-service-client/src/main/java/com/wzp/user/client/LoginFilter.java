@@ -75,8 +75,10 @@ public abstract class LoginFilter implements Filter {
 
     protected abstract void login(HttpServletRequest request, HttpServletResponse response, UserDTO userDTO) ;
 
+    protected abstract String userEdgeServiceAddr();
+
     private UserDTO requestUserInfo(String token) {
-        String url = "http://user-edge-service:8082/user/authentication";
+        String url = "http://" + userEdgeServiceAddr() + "/user/authentication";
         HttpClient client = new DefaultHttpClient();
         HttpPost post = new HttpPost(url);
         post.addHeader("token",token);

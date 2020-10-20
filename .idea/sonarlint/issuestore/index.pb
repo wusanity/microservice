@@ -149,8 +149,6 @@ V
 -message-thrift-python-service/Dockerfile.base,4\e\4e0b2723a1910bf4042c9f08387880bedee5706f
 X
 (message-thrift-python-service/Dockerfile,6\8\682660475a11431ac98966c7f66ffd2b2d549c8d
-k
-;user-edge-service/src/main/resources/application.properties,9\e\9eb9413a450a2cad381c45f7464dbafe99793caf
 J
 user-edge-service/build.sh,c\b\cb3775ddc1f9072429f39f7496fefeb74c32859b
 L
