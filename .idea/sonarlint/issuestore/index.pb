@@ -169,3 +169,9 @@ I
 api-gateway-zuul/build.sh,8\2\827f305d4c4c6f8c33032d53542031b7df069e1e
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+j
+:api-gateway-zuul/src/main/resources/application.properties,9\1\91cc6b2730c9ade230d90081745d8120a6fd60f8
+n
+>course-dubbo-service/src/main/resources/application.properties,8\b\8b02314151b0f42a2e1411f2448504fcac09eac0
+m
+=course-edge-service/src/main/resources/application.properties,7\0\707b411515f9a955d9ea0c74d110b221d683daaa

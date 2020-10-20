@@ -1,14 +1,14 @@
 
-[
-java:S1874P"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8¶ïÍİÑ.
-o
-java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ø‰ºš8»×çàÑ.
+q
+java:S2095R"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8åâûŸÔ.
+g	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(úÈ¹—ÿÿÿÿÿ8åâûŸÔ.
+c
+java:S1192,"FDefine a constant instead of duplicating this literal "token" 3 times.(Úè”œ8åâûŸÔ.
+|
+java:S1488b"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(‹ìö˜8åâûŸÔ.
 G
 java:S1135"2Complete the task associated to this TODO comment.(£°§\
-g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(úÈ¹—ÿÿÿÿÿ8ÔóÕİÑ.
-c
-java:S1192,"FDefine a constant instead of duplicating this literal "token" 3 times.(Úè”œ8¶ïÍİÑ.
-|
-java:S1488`"_Immediately return this expression instead of assigning it to the temporary variable "userDTO".(‹ìö˜8…›‚ŞÑ.
-q
-java:S2095P"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8¶ïÍİÑ.
+[
+java:S1874R"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8åâûŸÔ.
+o
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ø‰ºš8»×çàÑ.
